@@ -3,6 +3,6 @@
 worldborder set 20 10000s
 
 title @a title {"text": "Битва началась", "color": "red"}
-title @a subtitle {"text": "Удачи!", "color": "green"}
+title @a subtitle {"text": "Удачи!", "color": "red"}
 
 effect clear @a
