@@ -15,3 +15,9 @@ team modify silly friendlyFire false
 team modify komintern friendlyFire false
 team modify kobzar friendlyFire false
 team modify unknown friendlyFire false
+
+# Set the world border to 120
+# so that the players don't run to random places immediately
+worldborder set 120
+# Make it HURT
+worldborder damage amount 1
