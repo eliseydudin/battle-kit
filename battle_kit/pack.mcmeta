@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "pack_format": 6,
-        "description": "A datapack which allows you to do battle royale games in minecraft"
-    }
+	"pack": {
+		"pack_format": 3,
+		"description": "pack"
+	}
 }
