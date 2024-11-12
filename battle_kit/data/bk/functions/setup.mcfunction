@@ -15,6 +15,12 @@ team modify komintern friendlyFire false
 team modify kobzar friendlyFire false
 team modify meth friendlyFire false
 
+# Hide nicks from enemies
+team modify silly nametagVisibility hideForOtherTeams
+team modify komintern nametagVisibility hideForOtherTeams
+team modify kobzar nametagVisibility hideForOtherTeams
+team modify meth nametagVisibility hideForOtherTeams
+
 # Set the world border to 120
 # so that the players don't run to random places immediately
 worldborder set 20
