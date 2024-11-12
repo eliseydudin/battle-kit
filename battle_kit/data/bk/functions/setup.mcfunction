@@ -18,6 +18,6 @@ team modify unknown friendlyFire false
 
 # Set the world border to 120
 # so that the players don't run to random places immediately
-worldborder set 120
+worldborder set 20
 # Make it HURT
 worldborder damage amount 1
