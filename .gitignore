@@ -1,0 +1,4 @@
+# macOS directory file
+.DS_Store
+# Build output
+builddir/
