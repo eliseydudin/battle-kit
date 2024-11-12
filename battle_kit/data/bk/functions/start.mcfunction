@@ -6,4 +6,4 @@ title @a subtitle {"text": "У вас 10 минут", "color": "green"}
 effect give @a minecraft:regeneration 600 255 false
 tellraw @a {"text": "Всем выдан эффект регенерации максимального уровня на следующие 10 минут", "color" : "green"}
 
-schedule bk:start_battle 600s
+schedule function bk:start_battle 600s
