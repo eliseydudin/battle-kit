@@ -1,23 +1,23 @@
 team add silly "Силикаты"
-team add komintern "Коминтерн"
+team add vint "Винтовые"
 team add kobzar "Кобзарята"
 team add meth "Метамфетамин"
 
 # Set the team colors
 team modify silly color green
-team modify komintern color red
+team modify vint color red
 team modify kobzar color light_purple
 team modify meth color blue
 
 # Disable friendly fire
 team modify silly friendlyFire false
-team modify komintern friendlyFire false
+team modify vint friendlyFire false
 team modify kobzar friendlyFire false
 team modify meth friendlyFire false
 
 # Hide nicks from enemies
 team modify silly nametagVisibility hideForOtherTeams
-team modify komintern nametagVisibility hideForOtherTeams
+team modify vint nametagVisibility hideForOtherTeams
 team modify kobzar nametagVisibility hideForOtherTeams
 team modify meth nametagVisibility hideForOtherTeams
 
